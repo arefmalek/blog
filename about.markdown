@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
+I've been meaning to find a way to write up things I find really interesting,
+I plan on making this a more technical blog, since I don't want to have a post
+on neural networks followed be analysis on Neon Genesis. 
 
-Don't try and find me on IG add me on [linkedin](https://www.linkedin.com/in/aref-malek-78b3651b8/)  ( ͡❛ ͜ʖ ͡❛)
-
-In all seriousness this will serve as some form of documentation, maybe for code or
-just my personal thoughts. All love!
+All love - Aref
