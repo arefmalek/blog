@@ -18,6 +18,4 @@ I think I just might be able to mark off by the end of the next week.
 If anybody but me reads this, honestly thanks for your time, but more seriously
 this is one of those larger moments where a lot of knowledge I have had kind of
 comes together to allow me to achieve something that feels small, but is
-representative of a much larger journey. Glad you tuned in for the intro :^).
-
-
+representative of a much larger journey. Thanks for tuning into the intro :^).
