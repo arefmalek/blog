@@ -16,8 +16,8 @@ methods, I am really considering switching things up.
 
 Namely, I really like the idea of what you can do with ruby / jekyll (it's the
 blogging engine that runs this site), where you just either set up the
-premade system - setting up this blog was really just a lil bit of command line work
-- or just write something similar yourself. I like the idea that having a list
+premade system - setting up this blog was really just a lil bit of command line work - 
+or just write something similar yourself. I like the idea that having a list
 projects should have minimal boilerplate code, since the format should be
 relatively similar between each of them. 
 
