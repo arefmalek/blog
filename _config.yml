@@ -18,12 +18,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Aref's Blog
+title: Aref Malek
 description: >- # this means to ignore newlines until "baseurl:"
     Just having fun :^)
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://arefmalek.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+timezone: Australia/Brisbane
+show_excerpts: true # Show excerpts of posts on the home page
+
+
+# Socials
 github_username:  arefmalek
+linkedin_username: aref-malek-78b3651b8
 
 # Build settings
 theme: minima
