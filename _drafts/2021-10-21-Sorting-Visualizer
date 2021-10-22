@@ -1,0 +1,23 @@
+---
+layout: post
+title: Algorithm_Visualizer
+date: 2021-09-29
+---
+
+With school and a hunt for a job going on, it's been a struggle to find time
+for projects, but I'm really glad I got to make
+[this](https://arefmalek.github.io/Sorting_Visualizer/).
+This project was definitely one of the bigger introductions to Javascript
+(and more appropriately, my entry to the "I hate Javascript" club).
+That being said there were three difficult parts of the project
+
+## 1. Drawing random arrays
+A central part of the experience is that you should be able to generate random
+arrays on demand in order to see how any given array can be sorted by the
+sorted algorithm of your choice. That means I had to figure out how to draw
+a brand new array to the canvas on any given moment. I personally struggled
+with dynamically drawing to the canvas until I set up the draw_array
+function  - heavily inspired by `draw_array` function
+[here](https://cs.stanford.edu/people/jcjohns/sorting.js/js/sorting.js).
+
+
