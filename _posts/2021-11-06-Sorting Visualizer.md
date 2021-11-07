@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Algorithm_Visualizer
+title: Sorting Visualizer
 date: 2021-10-21
 ---
 
