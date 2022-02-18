@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-I've been meaning to find a way to write up things I find really interesting,
-I plan on making this a more technical blog, since I don't want to have a post
-on neural networks followed by analysis on Evangelion (although I'm almost always
-down to talk about the show). 
+I first started this blog with the intention of making it a technical one, but
+I now see this as a scratchpad for thoughts. I'll try to upload more often now,
+even if the topics aren't CS related - I just may have a post on Neural
+Networks followed by Evangelion Analysis (always down to talk about the show).
 
 All love - Aref
